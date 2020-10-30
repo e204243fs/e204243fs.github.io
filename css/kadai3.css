@@ -1,0 +1,23 @@
+h1{
+    color: white;
+    background-color: crimson;
+    text-align: center;
+}
+
+body{
+    background-image : url(../images/back1.jpg);
+}
+
+h2{
+    color: #65af32;
+    background-color: aquamarine;
+    text-align: center;
+}
+
+h3{
+    color: cornflowerblue;
+}
+
+p{
+    color: crimson;
+}
