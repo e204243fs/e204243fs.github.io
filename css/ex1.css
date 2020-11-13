@@ -1,0 +1,23 @@
+h1{
+    color: white;
+    background-color: darkcyan;
+    text-align: center;
+}
+
+body{
+    background-image : url(../images/back1.jpg);
+}
+
+h2{
+    color: aquamarine;
+    background-color: cadetblue;
+    text-align: center;
+}
+
+table{
+    background-color:deepskyblue;
+}
+
+ol{
+    background-image: url(../images/back2.jpg);
+}
