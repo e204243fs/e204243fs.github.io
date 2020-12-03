@@ -1,0 +1,28 @@
+body{
+    background-image: url(../images/back2.jpg);
+}
+
+
+h1#title{
+    color: white;
+    background-color: darkblue;
+    text-align: center;
+}
+
+h1#link{
+    color: cadetblue;
+    background-color: mediumspringgreen;
+    text-align: center;
+}
+
+h2#sub1{
+    color: azure;
+    background-color: coral;
+    text-align: center;
+}
+
+h2#sub2{
+    color: darksalmon;
+    background-color: dodgerblue;
+    text-align: center;
+}
