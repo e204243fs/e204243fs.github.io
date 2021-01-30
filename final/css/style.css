@@ -1,0 +1,117 @@
+body{
+    background-image : url(../images/back1.jpg);
+}
+
+div.wrap{
+    width: 1000px;
+    margin: auto;
+}
+
+div.title{
+    width: 1000px;
+    height: 50px;
+    background-color: pink;
+    font-size: 40px;
+    font-family: 'MS UI Gothic',sans-serif;
+}
+
+div.menuimage{
+    width: 1000px;
+    font-size: 0px;
+}
+
+div.menu{
+    display: inline-block;
+    vertical-align: top;
+    width: 150px;
+    height: 700px;
+    background-color: white;
+}
+
+div.menu1{
+    width: 150px;
+    height: 80px;
+    background-color: white;
+    font-size: 20px;
+    text-align: center;
+    font-family: "メイリオ","Meiryo"; font-weight: bold;
+}
+
+div.menu2{
+    width: 150px;
+    height: 80px;
+    background-color: white;
+    font-size: 20px;
+    text-align: center;
+    font-family: "メイリオ","Meiryo"; font-weight: bold;
+}
+
+div.menu3{
+    width: 150px;
+    height: 80px;
+    background-color: white;
+    font-size: 20px;
+    text-align: center;
+    font-family: "メイリオ","Meiryo"; font-weight: bold;
+}
+
+div.menu4{
+    width: 150px;
+    height: 80px;
+    background-color: white;
+    font-size: 20px;
+    text-align: center;
+    font-family: "メイリオ","Meiryo"; font-weight: bold;
+}
+
+div.image{
+    display: inline-block;
+    vertical-align: top;
+    width: 840px;
+    height: 700px;
+    background-color: white;
+    margin-left: 10px;
+}
+
+div.image1{
+    width: 840px;
+    height: 456px;
+    background-color: white;
+}
+
+div.sentence{
+    width: 840px;
+    height: 40px;
+    font-size: 30px;
+}
+
+div.footer{
+    width: 1000px;
+    height: 40px;
+    background-color: pink;
+}
+
+div.sentence0{
+    width: 840px;
+    font-size: 20px;
+}
+
+div.sentence1{
+    width: 840px;
+    font-size: 20px;
+}
+
+div.sentence2{
+    width: 840px;
+    font-size: 20px;
+}
+
+div.sentence3{
+    width: 840px;
+    font-size: 20px;
+}
+
+div.sentence4{
+    width: 840px;
+    font-size: 20px;
+}
